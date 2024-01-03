@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there 👋, I'm Ohad Amsellem</h1>
 
-<h3 align="center">Software Developer with passion for technology 👨‍💻</h3>
+<h3 align="center">Software Developer with a passion for technology 👨‍💻</h3>
 <p align="center"
    
 I'm a passionate developer from Israel with experience in <b>C</b>, <b>C++</b>, <b>Java</b>, <b>Python</b> and <b>Kotlin</b>.<br>
