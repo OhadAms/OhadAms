@@ -9,7 +9,7 @@
 <p align="center"
    
 I'm a passionate developer from Israel with experience in <b>C</b>, <b>C++</b>, <b>Java</b>, <b>Python</b> and <b>Kotlin</b>.<br>
-I also have experience with <b>Design Patterns</b> and building <b>Android applications</b> using <b>Android Stodio</b>.<br>
+I also have experience with <b>Design Patterns</b> and building <b>Android applications</b> using <b>Android Studio</b>.<br>
 I love to learn, and push project to successful completion.<br>
 I'm also a great communicator and i know how to collaborate with my teammates.</p><br>
 
