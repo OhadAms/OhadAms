@@ -43,8 +43,8 @@ ohadn.amsellem@gmail.com
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"/>
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
-<img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"/>
 <br>
+<img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"/>
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/1000px-N8n-logo-new.svg.png?20230204003316" alt="n8n logo"/>
 <img height="50" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="n8n logo"/>
 
